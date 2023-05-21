@@ -388,6 +388,19 @@ p, li { white-space: pre-wrap; }
      <string>Log OUT</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="get_task_details">
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>190</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Get Task Details</string>
+    </property>
+   </widget>
   </widget>
  </widget>
  <resources/>
